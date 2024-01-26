@@ -7,4 +7,5 @@
 
 фронтенд (TypeScript) : https://github.com/VadimDzitiev/bmstu-navigator-frontend
 бекенд (Python) : https://github.com/VadimDzitiev/Bmstu_navigator_backend
+
 нативное приложение (TypeScript) : https://github.com/VadimDzitiev/native
