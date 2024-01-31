@@ -5,8 +5,10 @@
 
 Смежные репозитории:
 
-фронтенд (TypeScript) : https://github.com/VadimDzitiev/bmstu-navigator-frontend
+Фронтенд (TypeScript) : https://github.com/VadimDzitiev/bmstu-navigator-frontend
 
-бекенд (Python) : https://github.com/VadimDzitiev/Bmstu_navigator_backend
+Бекенд (Python) : https://github.com/VadimDzitiev/Bmstu_navigator_backend
 
-нативное приложение (TypeScript) : https://github.com/VadimDzitiev/native
+Нативное приложение (TypeScript) : https://github.com/VadimDzitiev/native
+
+Асинхронный сервис (GO) : https://github.com/VadimDzitiev/bmstu-navigator-async
